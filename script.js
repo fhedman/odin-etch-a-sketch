@@ -1,4 +1,4 @@
-const GRID_SIZE = 960;
+const GRID_SIZE = 700;
 const CONTAINER = document.querySelector('#container');
 
 let button = document.querySelector('#button');
